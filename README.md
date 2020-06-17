@@ -21,6 +21,8 @@ In this project, I build a few machine learning models to predict how consumers 
 
 ## File Description <a name = "files"></a>
 
+The datasets used for this project can be found [here](https://drive.google.com/drive/folders/11I4soh4EZWUnL4DMnm8dKSF-fU9h-J2e?usp=sharing). 
+
 * 
 *
 
