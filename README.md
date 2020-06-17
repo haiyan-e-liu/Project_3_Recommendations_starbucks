@@ -12,6 +12,7 @@ You will need the standard data science libraries found in the Anaconda distribu
 
 ## Project Motivation <a name = "motivation"></a>
 In this project, I build a few machine learning models to predict how consumers of Starbucks respond to promotional offers. Specifically, I aim to answer these questions: 
+
 *
 *
 *
