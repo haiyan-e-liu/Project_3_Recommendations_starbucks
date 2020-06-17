@@ -11,7 +11,10 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name = "motivation"></a>
-In this project, I build a few machine learning models to predict how consumers of Starbucks respond to promotional offers. 
+In this project, I build a few machine learning models to predict how consumers of Starbucks respond to promotional offers. Specifically, I aim to answer these questions: 
+*
+*
+*
 
 
 ## File Description <a name = "files"></a>
