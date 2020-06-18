@@ -4,7 +4,7 @@
   2. [Project Motivation](#motivation)
   3. [File Description](#files)
   4. [Results](#results)
-  5. [Licensing and Acknowledgements](#licensing)
+  5. [Acknowledgements](#acknowledge)
   
 ## Installation <a name = "installation"></a>
 
@@ -31,6 +31,6 @@ The datasets used for this project can be found [here](https://drive.google.com/
 
 The main findings of the analysis can be found at the [blog post available here](). 
 
-## Licensing and Acknowledgements <a name = "licensing"></a>
+## Acknowledgements <a name = "acknowledge"></a>
   
 Thanks to Starbucks for the data.
