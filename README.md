@@ -25,7 +25,6 @@ In this project, I build a few machine learning models to predict how consumers 
 `starbucks_promotions.ipynb` is a notebook of the analysis performed following the CRISP-DM process.
 
 Datasets used for this project can be found [here](https://drive.google.com/drive/folders/11I4soh4EZWUnL4DMnm8dKSF-fU9h-J2e?usp=sharing). 
-
 * portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
 * profile.json - demographic data for each customer
 * transcript.json - records for transactions, offers received, offers viewed, and offers completed
