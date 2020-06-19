@@ -11,7 +11,7 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name = "motivation"></a>
-In this project, I build a few machine learning models to predict how consumers respond to promotional offers, so that offers will be sent out effectively. Specifically, I aim to answer these five questions: 
+In this project, I build a few machine learning models to predict how consumers respond to promotions, so that offers will be sent out effectively. Specifically, I aim to answer these five questions: 
 
 * Who responds to promotional offers (including all offer types)? What characteristics are the most important?
 * For people responding to different offers, how do their demographic characteristics differ?
