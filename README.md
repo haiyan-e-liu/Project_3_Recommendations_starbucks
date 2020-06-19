@@ -13,7 +13,7 @@ You will need the standard data science libraries found in the Anaconda distribu
 ## Project Motivation <a name = "motivation"></a>
 In this project, I build a few machine learning models to predict how consumers respond to promotions, so that future offers will be sent out effectively. Specifically, I aim to answer these five questions: 
 
-* Who responds to promotional offers (including all offer types)? What characteristics are the most important?
+* Who responds to promotional offers (including all offer types)? What characteristics are most important?
 * For people responding to different offers, how do their demographic characteristics differ?
 * If a person responds to an offer, how long does it take for him/her to complete the offer? How does this period differ for differnt offers?
 * If a person responds to an offer, how much would he/she spend based on demographics and offer type?
