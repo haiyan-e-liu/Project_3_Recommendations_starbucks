@@ -16,7 +16,7 @@ In this project, I build a few machine learning models to predict how consumers 
 1. For people responding to different offers, how do their demographic characteristics differ? (Decision Tree Model)
 2. If a person responds to an offer, how long does it take for him/her to complete the offer? How does this period differ for differnt offers?
 3. If a person responds to an offer, how much would he/she spend based on demographics and offer type?
-4. For people who make purchases without receiving promotions, what types of offers should be sent to them so that they will likely complete the offers and make the most purchase?
+4. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits?
 
 
 ## File Description <a name = "files"></a>
