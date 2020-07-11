@@ -15,7 +15,7 @@ In this project, I build a few machine learning models to predict how consumers 
 
 1. For people responding to different offers, how do their demographic characteristics differ? (Decision Tree Model)
 2. For completed offers, how long does it take for consumers to complete them? And how much do they spend? (GLM)
-3. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits?
+3. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits? (GLM)
 
 
 ## File Description <a name = "files"></a>
