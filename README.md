@@ -11,11 +11,12 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name = "motivation"></a>
-In this project, I build a few machine learning models to predict how consumers respond to promotions, so that future offers will be sent out effectively. Specifically, I aim to answer these three questions: 
+In this project, I build a few machine learning models to predict how consumers respond to promotions, so that future offers will be sent out effectively. Specifically, I aim to answer these four questions: 
 
-1. For people responding to different offers, how do their demographic characteristics differ? (Decision Tree Model)
-2. For completed offers, how long does it take for consumers to complete them? And how much do they spend? (GLM)
-3. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits? (GLM)
+1. Who completes offers and who don't? (Logistic Regression)
+2. For people responding to different offers, how do their demographic characteristics differ? (Decision Tree Model)
+3. For completed offers, how long does it take for consumers to complete them? And how much do they spend? (GLM)
+4. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits? (GLM)
 
 
 ## File Description <a name = "files"></a>
