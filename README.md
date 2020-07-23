@@ -15,8 +15,8 @@ In this project, I build a few machine learning models to predict how consumers 
 
 1. Who completes offers and who doesn't? (Logistic Regression)
 2. For people responding to different offers, how do their demographic characteristics differ? (Multiclass Decision Tree)
-3. For completed offers, how long does it take for consumers to complete them? And how much do they spend? (GLM)
-4. For people who make purchases without receiving offers, what types of offers should be sent to them to maximize profits? (GLM)
+3. For completed offers, how long does it take for consumers to complete them? (GLM)
+4. Who makes purchases without receiving offers? If offers are sent to them, what types of offers should be sent to maximize profits? (Clustering Analysis)
 
 
 ## File Description <a name = "files"></a>
